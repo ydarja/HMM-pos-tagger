@@ -1,0 +1,21 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = will mary spot
+1	will	_	AUX	_	_	_	_	_	_
+2	mary	_	PROPN	_	_	_	_	_	_
+3	spot	_	VERB	_	_	_	_	_	_
+
+# sent_id = 2
+# text = spot will spot will
+1	spot	_	PROPN	_	_	_	_	_	_
+2	will	_	AUX	_	_	_	_	_	_
+3	spot	_	VERB	_	_	_	_	_	_
+4	will	_	PROPN	_	_	_	_	_	_
+
+# sent_id = 3
+# text = can spot see will
+1	can	_	AUX	_	_	_	_	_	_
+2	spot	_	PROPN	_	_	_	_	_	_
+3	see	_	VERB	_	_	_	_	_	_
+4	will	_	PROPN	_	_	_	_	_	_
